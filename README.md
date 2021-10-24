@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thealexsamexe
 - 👀 I’m interested in ML, AI and data science
-- 🌱 I’m currently learning SQL, Supervised learning and Core Java.
 - 💞️ I’m looking to collaborate on ML and AI related projects
 
 <!---
